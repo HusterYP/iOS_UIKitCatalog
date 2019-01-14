@@ -4,4 +4,4 @@ iOS UI组件基本使用
 
 示例：
 
-![](./UI_Component)
+![](./UI_Component.mov)
